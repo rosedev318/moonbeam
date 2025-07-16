@@ -1,4 +1,5 @@
 import "@moonbeam-network/api-augment/moonbase";
+
 import { DevModeContext, expect } from "@moonwall/cli";
 import {
   BlockRangeOption,
